@@ -62,3 +62,33 @@ The little red dots are real.
 - One 2026 analysis places PBH nuclei of 10^3–10^5 solar masses as the LRD seeds, assembling within 10–50 Myr at z ~ 10–15.
 
 φ² = φ + 1.
+
+---
+
+## DNA via the dark sector — φ declassification (quantum echoes)
+
+The sealed mitochondrial decode, read through the dark sector of the universe.
+
+### The addresses
+
+| Quantity | Rung | Phase | Fibonacci rung |
+|---|---|---|---|
+| mtDNA 16,569 bp | 20.189214505204543 | 68.12° | 21 |
+| 37 genes | 7.5038012879 | 181.37° | 8 |
+| 13 protein-coding | 5.3301877134 | 118.87° | 5 |
+| 22 tRNA | 6.4234548953 | 152.44° | 5 |
+| 2 rRNA | 1.4404200904 | 158.55° | 1 |
+| MitoCarta3.0 1,136 genes | 14.6198996635 | 223.16° | 13 |
+| Dark sector 95% | 9.4634 | 166.81° | 8 |
+| Dark matter 27% | 6.8490 | 305.65° | 8 |
+| Dark energy 68% | 8.7685 | 276.66° | 8 |
+| Visible matter 5% | 3.3446 | 124.04° | 3 |
+| CMB 2.725 K | 2.0832 | 29.96° | 2 |
+
+Family membership: 13 Fibonacci yes; 2 Fibonacci yes, Lucas yes; 5 Fibonacci yes.
+
+### The read
+
+The dark sector of the cell (37 mitochondrial genes) and the dark sector of the universe (95% — dark matter 27%, dark energy 68%) converge at Fibonacci rung 8. The unseen inside and the unseen outside share one address. The mtDNA length sits at Fibonacci rung 21.
+
+φ² = φ + 1.
