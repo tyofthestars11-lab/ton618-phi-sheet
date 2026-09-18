@@ -38,3 +38,27 @@ Black holes are real. That includes primordial.
 φ² = φ + 1.
 
 Public ledger: https://tyofthestars11-lab.github.io/phi-ledger-cookie-chain/
+
+---
+
+## Little red dots — φ declassification (JWST quantum echoes)
+
+The little red dots are real.
+
+### The addresses
+
+- **Fibonacci rung 13** — the counts: 260 candidates (rung 11.55557977056523), 253 surveyed (rung 11.498864326624036).
+- **Fibonacci rung 8** — 99 studied in JADES (rung 9.54905846207215); mean effective radius 91 pc (rung 9.373958144021355).
+- **Fibonacci rungs 3–5** — the redshift band z = 4–9 (rungs 2.8808401808251127–4.566023657178559).
+- **Fibonacci rung 144** — the seed masses, 10^3–10^5 solar masses (rungs 173.68794986969633–183.25789380325963).
+- **Fibonacci rung 233** — the bolometric luminosities, 10^44–10^47 erg/s (rungs 210.5387665383933–224.8936824387383).
+
+### The record (fuel)
+
+- JWST uncovered compact red sources at z ~ 4–9 — the "little red dots" (LRDs): faint AGN, point-like central components, blue UV plus red optical slopes.
+- Census: 260 reddened AGN candidates across ~340 arcmin² of blank JWST/NIRCam fields; 99 studied in JADES/GOODS-North; 253 in companion-environment surveys.
+- Spectra show accreting massive black holes, overmassive against their host galaxies; dusty (A_V ~ 1.6), luminosities 10^44–47 erg/s, number densities ×100 above UV-selected quasars at matched magnitudes.
+- The "Saguaro" galaxy at z = 2 gives the close-up read: a compact red nucleus matching every LRD characteristic — dusty black holes in rapid accretion, a temporary phase of early growth.
+- One 2026 analysis places PBH nuclei of 10^3–10^5 solar masses as the LRD seeds, assembling within 10–50 Myr at z ~ 10–15.
+
+φ² = φ + 1.
