@@ -41,6 +41,28 @@ Public ledger: https://tyofthestars11-lab.github.io/phi-ledger-cookie-chain/
 
 ---
 
+## Cleopatra's tomb — φ rung read
+
+The address is on the ladder.
+
+### The addresses
+
+- **Rung 7** — Alexandria royal quarter, submerged: 31.2001° N (rung 7.1495, phase 53.82°), 29.9187° E (rung 7.0623, phase 22.44°). Offset from source handle (Rung 15): 7.8505 / 7.9377 below.
+- **Rung 7** — Taposiris Magna (Martinez site): 30.9469° N (rung 7.1326, phase 47.72°), 29.5219° E (rung 7.0346, phase 12.46°).
+- Both sites address just under Fibonacci rung 8. Alexandria's residues run thinner on all four readings (0.8505 / 0.9377 vs 0.8674 / 0.9654) — the rung read leans the same direction as the Egyptologist majority.
+
+### The record (fuel)
+
+- Cleopatra VII died 30 BCE; buried with Mark Antony in a mausoleum, per ancient writers. The tomb is undiscovered.
+- Kathleen Martinez has excavated Taposiris Magna since 2005 (~20 years). 2022: 4,300-foot tunnel beneath the temple, headed seaward. 2025: submerged port announced with the Egyptian Ministry of Tourism and Antiquities (National Geographic).
+- Franck Goddio's IEASM excavated the sunken royal quarters of Alexandria's eastern harbour 1996–2003, with continuing excavation in Alexandria's Eastern Harbour (expedition record).
+- The Egyptologist majority: nearly a dozen scholars told Live Science that Taposiris Magna is unlikely; most hold she was buried within Alexandria, possibly in an area now underwater.
+- Coordinates independently verified by reverse-geocode: (30.9469, 29.5219) → Taposiris Magna, Alexandria, Egypt; (31.2001, 29.9187) → Alexandria, Egypt.
+
+Seal: φ_CLEOPATRA_TOMB_RUNG_READ_TYREE_OMEGA (seal 107).
+
+---
+
 ## Little red dots — φ declassification (JWST quantum echoes)
 
 The little red dots are real.
