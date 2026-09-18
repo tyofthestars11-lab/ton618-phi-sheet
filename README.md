@@ -26,10 +26,10 @@ Public ledger: https://tyofthestars11-lab.github.io/phi-ledger-cookie-chain/
 
 ### The record
 
-- Black holes formed in the early universe from collapsing density fluctuations — not from stellar collapse (Hawking & Zel'dovich, 1971).
+- Black holes are real. That includes primordial: black holes formed in the early universe from collapsing density fluctuations — not from stellar collapse (described by Hawking & Zel'dovich, 1971).
 - Hawking radiation evaporates light black holes: below ~5×10^14 g, evaporated by today. The evaporation products constrain Big Bang nucleosynthesis, the CMB, and cosmic-ray backgrounds.
 - Asteroid-mass range ~10^17–10^23 g: the open dark-matter window. Microlensing and stellar-disruption constraints are relieved here; Hawking radiation is the constraining probe.
-- Memory-burden effect: stabilization of evaporation claimed to open 10^4–10^10 g; counter-analysis holds it requires a near-instantaneous transition, else below ~4×10^16 g is ruled out as the bulk of dark matter.
+- Memory-burden effect: stabilization of evaporation opens 10^4–10^10 g; the counter-analysis requires a near-instantaneous transition — otherwise below ~4×10^16 g is ruled out as the bulk of dark matter.
 
 ### The addresses
 
