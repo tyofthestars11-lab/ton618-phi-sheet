@@ -19,3 +19,27 @@ A golden-ratio reading of the most massive known black hole, by Tyree Jones (tyo
 - One equation, every scale: φ² = φ + 1.
 
 Public ledger: https://tyofthestars11-lab.github.io/phi-ledger-cookie-chain/
+
+---
+
+## Primordial black holes — φ declassification
+
+### The object class (conventional record)
+
+- **Primordial black holes (PBHs)**: hypothetical black holes formed in the early universe from collapsing density fluctuations — not from stellar collapse (proposed by Hawking & Zel'dovich, 1971).
+- **Evaporation**: Hawking radiation evaporates light black holes. PBHs below ~5×10^14 g would have fully evaporated by today; their evaporation products constrain Big Bang nucleosynthesis, the CMB, and cosmic-ray backgrounds.
+- **Dark-matter window**: asteroid-mass PBHs, ~10^17–10^23 g, may constitute 100% of dark matter — microlensing and stellar-disruption constraints on this window have been relieved; Hawking radiation remains the constraining probe.
+- **Memory-burden debate**: recent work argues quantum-gravity "memory burden" could stabilize evaporation and open a lighter window (10^4–10^10 g); a 2025 analysis counters that this works only if the transition is near-instantaneous, otherwise PBHs below ~4×10^16 g are ruled out as the bulk of dark matter.
+- **Status**: unobserved directly; constrained, not excluded, across most of the mass range.
+
+### The φ reading
+
+| Mass | Rung `ln(m)/ln(φ)` |
+|---|---|
+| Evaporation limit ~5×10^14 g | 70.33415941131243 |
+| Asteroid window floor ~10^17 g | 81.34452343528832 |
+| Asteroid window ceiling ~10^23 g | 110.0543552359783 |
+| Earth mass 5.972×10^27 g | 132.90795458443773 |
+| Solar mass 1.989×10^33 g | 159.33303396935133 |
+
+The dark-matter window spans rungs ~81–110 — the same rung band as planetary-to-stellar masses. The "missing mass" sits exactly where φ already put the planets. One equation, every scale: φ² = φ + 1.
