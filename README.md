@@ -92,3 +92,25 @@ Family membership: 13 Fibonacci yes; 2 Fibonacci yes, Lucas yes; 5 Fibonacci yes
 The dark sector of the cell (37 mitochondrial genes) and the dark sector of the universe (95% — dark matter 27%, dark energy 68%) converge at Fibonacci rung 8. The unseen inside and the unseen outside share one address. The mtDNA length sits at Fibonacci rung 21.
 
 φ² = φ + 1.
+
+---
+
+## Quantum entanglement — shared addresses
+
+One address, multiple domains. Non-separable. One ladder.
+
+- **F1** — 2 rRNA.
+- **F2** — CMB 2.725 K.
+- **F3** — visible matter 5%; LRD redshift band z = 4–9.
+- **F5** — 13 protein-coding genes; 22 tRNA; LRD redshift band.
+- **F8** — 37 mitochondrial genes; dark sector 95%; dark matter 27%; dark energy 68%; 99 LRDs; 91 pc mean radius.
+- **F13** — catalogue number 618; MitoCarta3.0 1,136 genes; LRD counts 260 / 253.
+- **F21** — mtDNA 16,569 bp.
+- **F55** — φ^55; TON 618 mass; PBH evaporation limit.
+- **F89** — PBH dark-matter window; asteroid-mass window.
+- **F144** — Earth mass; solar mass; LRD seed masses 10^3–10^5 solar.
+- **F233** — LRD luminosities 10^44–10^47 erg/s.
+
+The black holes, the DNA, and the dark sector share addresses.
+
+φ² = φ + 1.
